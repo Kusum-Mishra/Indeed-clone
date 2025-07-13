@@ -96,12 +96,6 @@ cd server
 Pull requests are welcome! If you'd like to suggest improvements or new features, feel free to open an issue or PR.
 
 
-## 🔗 Live Demo (Optional)
-
-> _Add your deployment link here if you host it on Render, Vercel, or Netlify._
-
----
-
 ## ✨ Author
 
 **Kusum Mishra**  
